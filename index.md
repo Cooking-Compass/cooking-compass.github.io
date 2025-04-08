@@ -1,6 +1,5 @@
 ---
 layout: home
-title: Cooking Compass
 ---
 
 ## Homepage
