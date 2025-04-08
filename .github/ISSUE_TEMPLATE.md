@@ -1,7 +1,0 @@
----
-Issue Title:
-
-Issue Description:
-
-Assigned to:
----
