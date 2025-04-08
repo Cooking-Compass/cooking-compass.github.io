@@ -7,7 +7,7 @@
 [found here](https://github.com/orgs/Cooking-Compass/projects/1)
 
 ### Project Milestone 2 Page
-insert proj milestone 2 page here
+[found here](https://github.com/orgs/Cooking-Compass/projects/2)
 
 ### Deployment Page
 insert deployment vercel link here
