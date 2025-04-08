@@ -16,7 +16,7 @@ layout: home
 ### Deployment Page
 [found here](https://cooking-compass-khaki.vercel.app/)
 
-<img src="homepage.png">
-<img src="recipe-page.png">
-<img src="recipe.png">
-<img src="submit.png">
+<img src="images/homepage.png">
+<img src="images/recipe-page.png">
+<img src="images/recipe.png">
+<img src="images/submit.png">
