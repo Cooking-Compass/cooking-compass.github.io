@@ -14,4 +14,4 @@ layout: home
 [found here](https://github.com/orgs/Cooking-Compass/projects/2)
 
 ### Deployment Page
-insert deployment vercel link here
+[found here](https://cooking-compass-khaki.vercel.app/)
