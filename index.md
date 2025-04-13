@@ -2,6 +2,8 @@
 layout: home
 ---
 
+<img src="images/logo.png">
+
 ## Homepage
 
 ### GitHub Organization
