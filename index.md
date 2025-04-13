@@ -6,15 +6,14 @@ layout: home
 
 ## **Table of Contents**
 * [Overview](#overview)
-* [Meet the Developers](#meet-the-developers)
 * [The Techy Stuff](#the-techy-stuff)
 * [Mockups](#mockups)
+* [Deployment](#deployment)
 * [User Guide](#user-guide)
+* [Meet the Developers](#meet-the-developers)
 
 ## **Overview**
 Cooking Compass is an application that allows UH Mānoa students to share and search for creative recipes that respect the constraints—limited kitchen resources, cooking skills, time—many college-goers face. By providing opportunites to find creative, *doable* recipes, we aim to foster a community that celebrates resourcefulness, healthy eating, and the joy of cooking.
-
-## **Meet the Developers**
 
 ## **The Techy Stuff**
 * See our [GitHub Organization](https://github.com/Cooking-Compass).
@@ -51,4 +50,11 @@ Cooking Compass is an application that allows UH Mānoa students to share and se
 
 </div>
 
-## User Guide
+## **Deployment**
+TO-DO!
+
+## **User Guide**
+TO-DO!
+
+## **Meet the Developers**
+TO-DO!
