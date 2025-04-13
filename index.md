@@ -4,7 +4,7 @@ layout: home
 
 <img src="images/logo.png">
 
-## Table of Contents
+## **Table of Contents**
 
 ### GitHub Organization
 
