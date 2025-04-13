@@ -10,18 +10,19 @@ layout: home
 * The Techy Stuff
 * Mockups
 
-### GitHub Organization
+## **Overview**
+Cooking Compass is an application that allows UH Mānoa students to share and search for creative recipes that respect the constraints—limited kitchen resources, cooking skills, time—many college-goers face. By providing opportunites to find creative, *doable* recipes, we aim to foster a community that celebrates resourcefulness, healthy eating, and the joy of cooking.
 
-[found here](https://github.com/Cooking-Compass)
+## **Meet the Developers**
 
-### Team Contract
-[found here](https://docs.google.com/document/d/1vPueASUJx5Af_aTIyjsdGVoajnHm5Qxhm5PrnRTxdoA/edit?usp=sharing)
 
-### Project Milestone 1 Page
-[found here](https://github.com/orgs/Cooking-Compass/projects/1)
+## **The Techy Stuff**
+* Come visit our [GitHub Organization](https://github.com/Cooking-Compass)!
+* See our [team contract](https://docs.google.com/document/d/1vPueASUJx5Af_aTIyjsdGVoajnHm5Qxhm5PrnRTxdoA/edit?usp=sharing).
 
-### Project Milestone 2 Page
-[found here](https://github.com/orgs/Cooking-Compass/projects/2)
+## **Milestones**
+* [Project Milestone 1](https://github.com/orgs/Cooking-Compass/projects/1)
+* [Project Milestone 2](https://github.com/orgs/Cooking-Compass/projects/2)
 
 ### Deployment Page
 [found here](https://cooking-compass-khaki.vercel.app/)
