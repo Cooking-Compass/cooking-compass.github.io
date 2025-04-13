@@ -5,6 +5,10 @@ layout: home
 <img src="images/logo.png">
 
 ## **Table of Contents**
+* Overview
+* Meet the Developers
+* The Techy Stuff
+* Mockups
 
 ### GitHub Organization
 
