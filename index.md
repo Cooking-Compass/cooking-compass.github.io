@@ -43,7 +43,7 @@ Cooking Compass is an application that allows UH Mānoa students to share and se
 
   <div style="flex: 1 1 45%; text-align: center;">
     <h3><strong>Individual Recipe Page</strong></h3>
-    <img width="500" src="images/recipe.png">
+    <img width="500" src="images/individual-recipe-page.png">
   </div>
 
   <div style="flex: 1 1 45%; text-align: center;">
@@ -76,7 +76,7 @@ TO-DO!
         <h3>Jasmine</h3>
         <img src="images/jasmine.jpg" style="width: 150px; height: 100px; object-fit: cover;">
         <p style="font-size: 12px;">
-        This is the homepage of the app.
+        Majoring in Computer Science and minoring in the History of Western Philosophy.
         </p>
       </td>
       <td style="padding: 10px; vertical-align: top;">
