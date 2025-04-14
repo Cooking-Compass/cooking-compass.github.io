@@ -64,7 +64,7 @@ TO-DO!
     <tr>
       <td style="padding: 10px; vertical-align: top;">
         <h3>Derrick</h3>
-        <img src="images/derrick.jpg" style="width: 150px; height: 100px; object-fit: cover;"><br>
+        <img src="images/derrick.jpg" style="width: 150px; height: 100px; object-fit: cover; object-position: bottom;"><br>
         <p style="font-size: 12px;">
         Majoring in ICS to eventually be in Game Development.
         </p>
