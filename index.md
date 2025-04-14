@@ -61,30 +61,36 @@ TO-DO!
 <div style="text-align: center;">
   <table style="margin: 0 auto;">
     <tr>
-      <td>
-        <h3><strong>Homepage</strong></h3>
-        <img src="images/pinkhomepage.png" width="200">
-        <p>This is the homepage of the app.</p>
+      <td style="padding: 10px; vertical-align: top;">
+        <h3>Derrick</h3>
+        <img src="images/derrick.jpg" style="width: 150px; height: 100px; object-fit: cover;"><br>
+        <p style="font-size: 12px;">
+        This is the homepage of the app.
+        </p>
       </td>
-      <td>
-        <h3><strong>Sign-in Page</strong></h3>
-        <img src="images/signin.png" width="200">
-        <p>This is the homepage of the app.</p>
+      <td style="padding: 10px; vertical-align: top;">
+        <h3>Jasmine</h3>
+        <img src="images/jasmine.jpg" style="width: 150px; height: 100px; object-fit: cover;">
+        <p style="font-size: 12px;">
+        This is the homepage of the app.
+        </p>
       </td>
-      <td>
-        <h3><strong>Individual Recipe Page</strong></h3>
-        <img src="images/recipe.png" width="200">
-        <p>This is the homepage of the app.</p>
+      <td style="padding: 10px; vertical-align: top;">
+        <h3>Martin Adra</h3>
+        <img src="images/martin.jpg" style="width: 150px; height: 100px; object-fit: cover;"><br>
+        <p style="font-size: 12px;">
+        Majors in Astrophysics and Minors in ICS
+        <a href="https://www.linkedin.com/in/martin-adra-40a06b1b9" target="_blank">Martin Adra</a>
+        </p>
       </td>
-      <td>
-        <h3><strong>Recipe Submit Page</strong></h3>
-        <img src="images/pinksubmitrecipe.png" width="200">
-        <p>This is the homepage of the app.</p>
+      <td style="padding: 10px; vertical-align: top;">
+        <h3>Binh</h3>
+        <img src="images/binh.jpg" style="width: 150px; height: 100px; object-fit: cover;"><br>
+        <p style="font-size: 12px;">
+        This is the homepage of the app.
+        </p>
       </td>
     </tr>
   </table>
 </div>
-
-
-
 
