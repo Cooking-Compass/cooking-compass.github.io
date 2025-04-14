@@ -51,10 +51,40 @@ Cooking Compass is an application that allows UH Mānoa students to share and se
 </div>
 
 ## **Deployment**
-TO-DO!
+
 
 ## **User Guide**
 TO-DO!
 
 ## **Meet the Developers**
-TO-DO!
+
+<div style="text-align: center;">
+  <table style="margin: 0 auto;">
+    <tr>
+      <td>
+        <h3><strong>Homepage</strong></h3>
+        <img src="images/pinkhomepage.png" width="200">
+        <p>This is the homepage of the app.</p>
+      </td>
+      <td>
+        <h3><strong>Sign-in Page</strong></h3>
+        <img src="images/signin.png" width="200">
+        <p>This is the homepage of the app.</p>
+      </td>
+      <td>
+        <h3><strong>Individual Recipe Page</strong></h3>
+        <img src="images/recipe.png" width="200">
+        <p>This is the homepage of the app.</p>
+      </td>
+      <td>
+        <h3><strong>Recipe Submit Page</strong></h3>
+        <img src="images/pinksubmitrecipe.png" width="200">
+        <p>This is the homepage of the app.</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
+
