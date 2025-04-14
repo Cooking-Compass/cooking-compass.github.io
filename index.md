@@ -66,7 +66,7 @@ TO-DO!
         <h3>Derrick</h3>
         <img src="images/derrick.jpg" style="width: 150px; height: 100px; object-fit: cover;"><br>
         <p style="font-size: 12px;">
-        This is the homepage of the app.
+        Majoring in ICS to eventually be in Game Development.
         </p>
       </td>
       <td style="padding: 10px; vertical-align: top;">
