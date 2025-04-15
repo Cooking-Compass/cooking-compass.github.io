@@ -91,7 +91,7 @@ TO-DO!
         <h3>Binh</h3>
         <img src="images/binh.jpg" style="width: 150px; height: 100px; object-fit: cover;"><br>
         <p style="font-size: 12px;">
-        This is the homepage of the app.
+        Majoring in ICS with a interest in Cybersecurity.
         </p>
       </td>
     </tr>
