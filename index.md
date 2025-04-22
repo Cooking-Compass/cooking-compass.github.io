@@ -67,21 +67,21 @@ TO-DO!
     <tr>
       <td style="width: 200px; vertical-align: top;">
         <h3 style="margin-bottom: 10px;">Derrick</h3>
-        <img src="images/derrick-square.jpg" style="width: 130px; height: 130px; object-position: center; border-radius: 8px"><br>
+        <img src="images/derrick-square.jpg" style="text-align: center; width: 150px; height: 150px; object-position: center; border-radius: 8px"><br>
         <p style="font-size: 13px; margin-top: 8px;">
         Majoring in ICS to eventually be in Game Development.
         </p>
       </td>
       <td style="width: 200px; vertical-align: top;">
         <h3 style="margin-bottom: 10px;">Jasmine</h3>
-        <img src="images/jasmine-square.jpg" style="width: 130px; height: 130px; object-position: center; border-radius: 8px;"><br>
+        <img src="images/jasmine-square.jpg" style="text-align: center; width: 150px; height: 150px; object-position: center; border-radius: 8px;"><br>
         <p style="font-size: 13px; margin-top: 8px;">
         Majoring in Computer Science and minoring in Philosophy.
         </p>
       </td>
-      <td style="width: 200px; ">
+      <td style="width: 200px; vertical-align: top;">
         <h3 style="margin-bottom: 10px;">Martin</h3>
-        <img src="images/martin.jpg" style="width: 120px; height: 130px; object-position: center; border-radius: 8px;"><br>
+        <img src="images/martin.jpg" style="text-align: center; width: 138.5px; height: 150px; object-position: center; border-radius: 8px;"><br>
         <p style="font-size: 13px; margin-top: 8px;">
         Majoring in Astrophysics and Minoring in ICS
         <a href="https://www.linkedin.com/in/martin-adra-40a06b1b9" target="_blank">LinkedIn</a>
@@ -89,7 +89,7 @@ TO-DO!
       </td>
       <td style="width: 200px; vertical-align: top;">
         <h3 style="margin-bottom: 10px;">Binh</h3>
-        <img src="images/binh-square.jpg" style="width: 130px; height: 130px;object-position: center; border-radius: 8px;"><br>
+        <img src="images/binh-square.jpg" style="text-align: center; width: 150px; height: 150px;object-position: center; border-radius: 8px;"><br>
         <p style="font-size: 13px; margin-top: 8px;">
         Majoring in ICS with a interest in Cybersecurity.
         </p>
