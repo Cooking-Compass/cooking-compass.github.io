@@ -77,6 +77,7 @@ TO-DO!
         <img src="images/jasmine-square.jpg" style="width: 150px; height: 150px; object-fit: cover; object-position: center; border-radius: 8px;"><br>
         <p style="font-size: 13px; margin-top: 8px;">
         Majoring in ICS and minoring in Philosophy.
+        <a href="https://www.linkedin.com/in/jasminequach/" target="_blank">LinkedIn</a>
         </p>
       </td>
       <td style="width: 200px; vertical-align: top; text-align: center;">
