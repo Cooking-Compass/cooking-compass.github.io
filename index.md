@@ -63,34 +63,34 @@ TO-DO!
 ## **Meet the Developers**
 
 <div style="text-align: center;">
-  <table style="margin: 0 auto;">
+  <table style="margin: 0 auto; border-collapse: separate; border-spacing: 20px;">
     <tr>
-      <td style="padding: 10px; vertical-align: top;">
-        <h3>Derrick</h3>
-        <img src="images/derrick.jpg" style="width: 150px; height: 100px; object-fit: cover; object-position: bottom;"><br>
-        <p style="font-size: 12px;">
+      <td style="width: 200px; vertical-align: top;">
+        <h3 style="margin-bottom: 10px;">Derrick</h3>
+        <img src="images/derrick.jpg" style="width: 150px; height: 100px; object-fit: cover; object-position: bottom; border-radius: 8px"><br>
+        <p style="font-size: 13px; margin-top: 8px;">
         Majoring in ICS to eventually be in Game Development.
         </p>
       </td>
-      <td style="padding: 10px; vertical-align: top;">
-        <h3>Jasmine</h3>
-        <img src="images/jasmine.jpg" style="width: 150px; height: 100px; object-fit: cover;">
-        <p style="font-size: 12px;">
+      <td style="width: 200px; vertical-align: top;">
+        <h3 style="margin-bottom: 10px;">Jasmine</h3>
+        <img src="images/jasmine.jpg" style="width: 150px; height: 100px; object-fit: cover; border-radius: 8px;"><br>
+        <p style="font-size: 13px; margin-top: 8px;">
         Majoring in Computer Science and minoring in the History of Western Philosophy.
         </p>
       </td>
-      <td style="padding: 10px; vertical-align: top;">
-        <h3>Martin Adra</h3>
-        <img src="images/martin.jpg" style="width: 150px; height: 100px; object-fit: cover;"><br>
-        <p style="font-size: 12px;">
+      <td style="width: 200px; vertical-align: top;">
+        <h3 style="margin-bottom: 10px;">Martin Adra</h3>
+        <img src="images/martin.jpg" style="width: 150px; height: 100px; object-fit: cover; border-radius: 8px;"><br>
+        <p style="font-size: 13px; margin-top: 8px;">
         Majors in Astrophysics and Minors in ICS
         <a href="https://www.linkedin.com/in/martin-adra-40a06b1b9" target="_blank">Martin Adra</a>
         </p>
       </td>
-      <td style="padding: 10px; vertical-align: top;">
-        <h3>Binh</h3>
-        <img src="images/binh.jpg" style="width: 150px; height: 100px; object-fit: cover;"><br>
-        <p style="font-size: 12px;">
+      <td style="width: 200px; vertical-align: top;">
+        <h3 style="margin-bottom: 10px;">Binh</h3>
+        <img src="images/binh.jpg" style="width: 150px; height: 100px; object-fit: cover; border-radius: 8px;"><br>
+        <p style="font-size: 13px; margin-top: 8px;">
         Majoring in ICS with a interest in Cybersecurity.
         </p>
       </td>
