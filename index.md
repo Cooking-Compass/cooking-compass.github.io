@@ -83,7 +83,7 @@ TO-DO!
         <h3 style="margin-bottom: 10px;">Martin</h3>
         <img src="images/martin.jpg" style="width: 138.5px; height: 150px; object-fit: cover; object-position: center; border-radius: 8px;"><br>
         <p style="font-size: 13px; margin-top: 8px;">
-        Majoring in Astrophysics and Minoring in ICS
+        Majoring in Astrophysics and Minoring in ICS.
         <a href="https://www.linkedin.com/in/martin-adra-40a06b1b9" target="_blank">LinkedIn</a>
         </p>
       </td>
@@ -91,7 +91,7 @@ TO-DO!
         <h3 style="margin-bottom: 10px;">Binh</h3>
         <img src="images/binh-square.jpg" style="width: 150px; height: 150px; object-fit: cover; object-position: center; border-radius: 8px;"><br>
         <p style="font-size: 13px; margin-top: 8px;">
-        Majoring in ICS with a interest in Cybersecurity.
+        Majoring in ICS with an interest in Cybersecurity.
         </p>
       </td>
     </tr>
