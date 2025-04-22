@@ -89,7 +89,7 @@ TO-DO!
       </td>
       <td style="width: 200px; vertical-align: top;">
         <h3 style="margin-bottom: 10px;">Binh</h3>
-        <img src="images/binh.jpg" style="width: 100px; height: 130px;object-position: bottom; border-radius: 8px;"><br>
+        <img src="images/binh.jpg" style="width: 100px; height: 120px;object-position: bottom; border-radius: 8px;"><br>
         <p style="font-size: 13px; margin-top: 8px;">
         Majoring in ICS with a interest in Cybersecurity.
         </p>
