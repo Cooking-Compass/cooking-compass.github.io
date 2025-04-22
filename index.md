@@ -67,16 +67,16 @@ TO-DO!
     <tr>
       <td style="width: 200px; vertical-align: top;">
         <h3 style="margin-bottom: 10px;">Derrick</h3>
-        <img src="images/derrick.jpg" style="width: 120px; height: 130px; object-position: bottom; border-radius: 8px"><br>
+        <img src="images/derrick-square.jpg" style="width: 120px; height: 130px; object-position: bottom; border-radius: 8px"><br>
         <p style="font-size: 13px; margin-top: 8px;">
         Majoring in ICS to eventually be in Game Development.
         </p>
       </td>
       <td style="width: 200px; vertical-align: top;">
         <h3 style="margin-bottom: 10px;">Jasmine</h3>
-        <img src="images/jasmine.jpg" style="width: 130px; height: 120px; object-position: bottom; border-radius: 8px;"><br>
+        <img src="images/jasmine-square.jpg" style="width: 130px; height: 120px; object-position: bottom; border-radius: 8px;"><br>
         <p style="font-size: 13px; margin-top: 8px;">
-        Majoring in Computer Science and minoring in the History of Western Philosophy.
+        Majoring in Computer Science and minoring in Philosophy.
         </p>
       </td>
       <td style="width: 200px; ">
@@ -89,7 +89,7 @@ TO-DO!
       </td>
       <td style="width: 200px; vertical-align: top;">
         <h3 style="margin-bottom: 10px;">Binh</h3>
-        <img src="images/binh.jpg" style="width: 100px; height: 140px;object-position: bottom; border-radius: 8px;"><br>
+        <img src="images/binh-square.jpg" style="width: 100px; height: 140px;object-position: bottom; border-radius: 8px;"><br>
         <p style="font-size: 13px; margin-top: 8px;">
         Majoring in ICS with a interest in Cybersecurity.
         </p>
