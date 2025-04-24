@@ -100,7 +100,8 @@ TO-DO!
   </table>
 </div>
 
-<hr />
+<br>
+<hr>
 
 ## Wish to install and view our program?
 
@@ -208,6 +209,8 @@ $ npm run lint
 $
 ```
 
+<br>
+<hr>
 
 ## User Interface Walkthrough
 
@@ -217,11 +220,15 @@ When you first bring up the application, you will see the landing page that prov
 
 <img src="images/WT-landing-page.png">
 
+<br>
+
 ### About
 
 Clicking on the 'About' link brings up a page containing information about the app, our vision, and frequently asked questions.
 
 <img src="images/WT-about.png">
+
+<br>
 
 ### Sign Up
 
@@ -229,11 +236,15 @@ If you do not yet have an account on the system, you can register by clicking on
 
 <img src="images/WT-signup.png">
 
+<br>
+
 ### Sign In
 
 Click on the Login link, then click on the Signin link to bring up the Sign In page which allows you to login:
 
 <img src="images/WT-signin.png">
+
+<br>
 
 ### Submit Recipe
 
@@ -241,11 +252,15 @@ After successfully logging in, the user will be taken back to the homepage, but 
 
 <img src="images/WT-submit-recipe.png">
 
+<br>
+
 ### List Recipe
 
 Clicking on the Explore link brings up a page that lists all of the recipes that have been submitted to the application.
 
 <img src="">
+
+<br>
 
 ### Individual Recipe
 
