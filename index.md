@@ -102,7 +102,7 @@ TO-DO!
 
 <hr />
 
-## Wish to install and view our program? 
+## Wish to install and view our program?
 
 First, you'll want to clone the repository to your own desktop. That requires permitted access so feel free to request access. 
 The link to the repository can be found [here](https://github.com/Cooking-Compass/cooking-compass).
@@ -208,3 +208,47 @@ $ npm run lint
 $
 ```
 
+
+### User Interface Walkthrough
+
+#### Landing Page
+
+When you first bring up the application, you will see the landing page that provides a brief introduction to the capabilities of Cooking Compass:
+
+<img src="public/WT-landing-page.png">
+
+#### About
+
+Clicking on the 'About' link brings up a page containing information about the app, our vision, and frequently asked questions.
+
+<img src="public/WT-about.png">
+
+#### Sign Up
+
+If you do not yet have an account on the system, you can register by clicking on 'Login', then 'Sign Up':
+
+<img src="public/WT-signup.png">
+
+#### Sign In
+
+Click on the Login link, then click on the Signin link to bring up the Sign In page which allows you to login:
+
+<img src="public/WT-signin.png">
+
+#### Submit Recipe
+
+After successfully logging in, the user will be taken back to the homepage, but now they will be able to submit recipes. Clicking on the 'Submit a Recipe' link will bring up this page:
+
+<img src="public/WT-submit-recipe.png">
+
+#### List Recipe
+
+Clicking on the Explore link brings up a page that lists all of the recipes that have been submitted to the application.
+
+<img src="">
+
+#### Individual Recipe
+
+From the Explore page, the user can click on individual recipes to bring up a page dedicated to that specific recipe.
+
+<img src="">
