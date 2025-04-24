@@ -100,7 +100,7 @@ TO-DO!
   </table>
 </div>
 
-
+<hr />
 
 ## Wish to install and view our program? 
 
@@ -169,7 +169,7 @@ $
 
 ```
 
-## Now, here is how to start it up locally:
+### Now, here is how to start it up locally:
 
 Once the libraries are installed and the database seeded, you can run the application by invoking the "dev" script in the [package.json file](https://github.com/ics-software-engineering/nextjs-application-template/blob/master/app/package.json):
 
