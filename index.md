@@ -23,6 +23,7 @@ Cooking Compass is an application that allows UH Mānoa students to share and se
 ## **Milestones**
 * [Project Milestone 1](https://github.com/orgs/Cooking-Compass/projects/1)
 * [Project Milestone 2](https://github.com/orgs/Cooking-Compass/projects/2)
+* [Project Milestone 3](https://github.com/orgs/Cooking-Compass/projects/3)
 
 ## **Mockups**
 
