@@ -153,23 +153,6 @@ $
 
 ```
 
-Then seed the database with the `/config/settings.development.json` data using `npx prisma db seed`.
-
-```
-
-$ npx prisma db seed
-Environment variables loaded from .env
-Running seed command `ts-node --compiler-options {"module":"CommonJS"} prisma/seed.ts` ...
-Seeding the database
-Creating user: admin@foo.com with role: ADMIN
-Creating user: john@foo.com with role: USER
-Adding Contacts: ....
-
-🌱 The seed command has been executed.
-$
-
-```
-
 ### Now, here is how to start it up locally:
 
 Once the libraries are installed and the database seeded, you can run the application by invoking the "dev" script in the [package.json file](https://github.com/ics-software-engineering/nextjs-application-template/blob/master/app/package.json):
