@@ -209,45 +209,45 @@ $
 ```
 
 
-### User Interface Walkthrough
+## User Interface Walkthrough
 
-#### Landing Page
+### Landing Page
 
 When you first bring up the application, you will see the landing page that provides a brief introduction to the capabilities of Cooking Compass:
 
-<img src="public/WT-landing-page.png">
+<img src="images/WT-landing-page.png">
 
-#### About
+### About
 
 Clicking on the 'About' link brings up a page containing information about the app, our vision, and frequently asked questions.
 
-<img src="public/WT-about.png">
+<img src="images/WT-about.png">
 
-#### Sign Up
+### Sign Up
 
 If you do not yet have an account on the system, you can register by clicking on 'Login', then 'Sign Up':
 
-<img src="public/WT-signup.png">
+<img src="images/WT-signup.png">
 
-#### Sign In
+### Sign In
 
 Click on the Login link, then click on the Signin link to bring up the Sign In page which allows you to login:
 
-<img src="public/WT-signin.png">
+<img src="images/WT-signin.png">
 
-#### Submit Recipe
+### Submit Recipe
 
 After successfully logging in, the user will be taken back to the homepage, but now they will be able to submit recipes. Clicking on the 'Submit a Recipe' link will bring up this page:
 
-<img src="public/WT-submit-recipe.png">
+<img src="images/WT-submit-recipe.png">
 
-#### List Recipe
+### List Recipe
 
 Clicking on the Explore link brings up a page that lists all of the recipes that have been submitted to the application.
 
 <img src="">
 
-#### Individual Recipe
+### Individual Recipe
 
 From the Explore page, the user can click on individual recipes to bring up a page dedicated to that specific recipe.
 
