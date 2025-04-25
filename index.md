@@ -92,6 +92,7 @@ Cooking Compass is an application that allows UH Mānoa students to share and se
         <img src="images/binh-square.jpg" style="width: 150px; height: 150px; object-fit: cover; object-position: center; border-radius: 8px;"><br>
         <p style="font-size: 13px; margin-top: 8px;">
         Majoring in ICS with an interest in Cybersecurity.
+          <a href="https://www.linkedin.com/in/binhntrann/" target="_blank">LinkedIn</a>
         </p>
       </td>
     </tr>
