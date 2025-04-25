@@ -57,6 +57,7 @@ Cooking Compass is an application that allows UH Mānoa students to share and se
 ## **Deployment**
 
 * [Vercel Deployment](https://cooking-compass-khaki.vercel.app/)
+* [![ci-CookingCompass](https://github.com/Cooking-Compass/cooking-compass/actions/workflows/ci.yml/badge.svg)](https://github.com/Cooking-Compass/cooking-compass/actions/workflows/ci.yml)
 
 ## **Meet the Developers**
 
