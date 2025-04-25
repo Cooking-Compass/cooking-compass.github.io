@@ -28,28 +28,28 @@ Cooking Compass is an application that allows UH Mānoa students to share and se
 ## **Mockups**
 
 <h3><strong>Landing Page</strong></h3>
-<img width="500" src="images/pinkhomepage.png">
+<img width="500" src="images/WT-landing-page.png">
 
 <div style="display: flex; flex-wrap: wrap; gap: 40px; justify-content: center;">
 
   <div style="flex: 1 1 45%; text-align: center;">
     <h3><strong>Sign-up Page</strong></h3>
-    <img width="500" src="images/signup.png">
+    <img width="500" src="images/WT-signup.png">
   </div>
 
   <div style="flex: 1 1 45%; text-align: center;">
     <h3><strong>Sign-in Page</strong></h3>
-    <img width="500" src="images/signin.png">
+    <img width="500" src="images/WT-signin.png">
   </div>
 
   <div style="flex: 1 1 45%; text-align: center;">
     <h3><strong>Individual Recipe Page</strong></h3>
-    <img width="500" src="images/individual-recipe-page.png">
+    <img width="500" src="images/WT-recipe.png">
   </div>
 
   <div style="flex: 1 1 45%; text-align: center;">
     <h3><strong>Recipe Submit Page</strong></h3>
-    <img width="500" src="images/pinksubmitrecipe.png">
+    <img width="500" src="images/WT-submit-recipe.png">
   </div>
 
 </div>
