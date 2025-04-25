@@ -241,7 +241,7 @@ After successfully logging in, the user will be taken back to the homepage, but 
 
 Clicking on the Explore link brings up a page that lists all of the recipes that have been submitted to the application.
 
-<img src="">
+<img src="images/WT-explore.png">
 
 <br>
 
@@ -249,4 +249,4 @@ Clicking on the Explore link brings up a page that lists all of the recipes that
 
 From the Explore page, the user can click on individual recipes to bring up a page dedicated to that specific recipe.
 
-<img src="">
+<img src="images/WT-recipe.png">
