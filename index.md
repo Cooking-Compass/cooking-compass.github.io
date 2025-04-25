@@ -58,9 +58,6 @@ Cooking Compass is an application that allows UH Mānoa students to share and se
 
 * [Vercel Deployment](https://cooking-compass-khaki.vercel.app/)
 
-## **User Guide**
-TO-DO!
-
 ## **Meet the Developers**
 
 <div>
