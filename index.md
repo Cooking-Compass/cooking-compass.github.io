@@ -249,3 +249,19 @@ Clicking on the Explore link brings up a page that lists all of the recipes that
 From the Explore page, the user can click on individual recipes to bring up a page dedicated to that specific recipe.
 
 <img src="images/WT-recipe.png">
+
+## Community Feedback
+
+### What did you like, is this convenient and would you use this?
+
+"I liked how easy it is to follow and use! I would definitely use this to look at other people's recipes." 
+
+"Most of it I liked, mainly the structure and the design. I would use this and spread this to other people"
+
+### Tell us ways this could be better
+
+"Try to make the spacing between the pictures and descriptions of the receipies not funky." 
+
+"The comma structure was not the best option. Try to use some less common grammatical symbol/device like a ';'."
+
+"Clearer instructions on how to write the instructions for each recipe."
