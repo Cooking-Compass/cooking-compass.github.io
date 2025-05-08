@@ -267,7 +267,7 @@ The user can click the 'My Recipes' button on the navigation bar to view the rec
 <img src="images/WT-my-recipes.png">
 
 <br>
-<br>
+<hr>
 
 ## **Community Feedback**
 
