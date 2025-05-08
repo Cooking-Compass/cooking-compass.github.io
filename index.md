@@ -58,6 +58,8 @@ Cooking Compass is an application that allows UH Mānoa students to share and se
 
 </div>
 
+<br>
+
 <div style="text-align: center">
   <h3><strong>Landing Page</strong></h3>
   <img width="500" src="images/WT-landing-page.png">
