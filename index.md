@@ -63,7 +63,7 @@ Cooking Compass is an application that allows UH Mānoa students to share and se
 <br>
 <hr>
 
-## Wish to install and view our program?
+## **Wish to install and view our program?**
 
 First, you'll want to clone the repository to your own desktop. That requires permitted access so feel free to request access. 
 The link to the repository can be found [here](https://github.com/Cooking-Compass/cooking-compass).
@@ -113,7 +113,7 @@ $
 
 ```
 
-### Now, here is how to start it up locally:
+### **Now, here is how to start it up locally:**
 
 Once the libraries are installed and the database seeded, you can run the application by invoking the "dev" script in the [package.json file](https://github.com/ics-software-engineering/nextjs-application-template/blob/master/app/package.json):
 
@@ -134,11 +134,11 @@ $ npm run dev
 
 ```
 
-### Viewing the running app:
+### **Viewing the running app:**
 
 If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000). You can login using the credentials in [settings.development.json](https://github.com/ics-software-engineering/nextjs-application-template/blob/main/config/settings.development.json), or else register a new account.
 
-### ESLint
+### **ESLint**
 
 You can verify that the code obeys our coding standards by running ESLint over the code in the src/ directory with:
 
@@ -155,9 +155,9 @@ $
 <br>
 <hr>
 
-## User Interface Walkthrough
+## **User Interface Walkthrough**
 
-### Landing Page
+### **Landing Page**
 
 When you first bring up the application, you will see the landing page that provides a brief introduction to the capabilities of Cooking Compass:
 
@@ -165,7 +165,7 @@ When you first bring up the application, you will see the landing page that prov
 
 <br>
 
-### About
+### **About**
 
 Clicking on the 'About Us' link brings up a page containing information about the app, our vision, and frequently asked questions.
 
@@ -173,7 +173,7 @@ Clicking on the 'About Us' link brings up a page containing information about th
 
 <br>
 
-### Sign Up
+### **Sign Up**
 
 If you do not yet have an account on the system, you can register by clicking on 'Login', then 'Sign Up':
 
@@ -181,7 +181,7 @@ If you do not yet have an account on the system, you can register by clicking on
 
 <br>
 
-### Sign In
+### **Sign In**
 
 Click on the Login link, then click on the Signin link to bring up the Sign In page which allows you to login:
 
@@ -189,7 +189,7 @@ Click on the Login link, then click on the Signin link to bring up the Sign In p
 
 <br>
 
-### Submit Recipe
+### **Submit Recipe**
 
 After successfully logging in, the user will be taken back to the homepage, but now they will be able to submit recipes. Clicking on the 'Submit a Recipe' link will bring up this page:
 
@@ -197,7 +197,7 @@ After successfully logging in, the user will be taken back to the homepage, but 
 
 <br>
 
-### Explore
+### **Explore**
 
 Clicking on the 'Explore' button brings up a page that lists all of the recipes that have been submitted to the application. Each card has a preview of the dish, including an image and description.
 
@@ -205,7 +205,7 @@ Clicking on the 'Explore' button brings up a page that lists all of the recipes 
 
 <br>
 
-### Individual Recipe
+### **Individual Recipe**
 
 From the Explore page, the user can click on the 'View Recipe' button for the recipe they would like to know more about. This brings up a page that now also lists the ingredients and instructions for that recipe.
 
@@ -213,7 +213,7 @@ From the Explore page, the user can click on the 'View Recipe' button for the re
 
 <br>
 
-### Report Recipe
+### **Report Recipe**
 
 A recipe may not always be suitable for the Cooking Compass community. Clicking the 'Report' button on a recipe page allows the user to alert the admins of potential violations.
 
@@ -221,7 +221,7 @@ A recipe may not always be suitable for the Cooking Compass community. Clicking 
 
 <br>
 
-### Report Recipe
+### **Report Recipe**
 
 The user can click the 'My Recipes' button on the navigation bar to view the recipes they have submitted. This page allows them to edit or delete their submissions.
 
