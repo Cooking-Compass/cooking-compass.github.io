@@ -259,6 +259,14 @@ A recipe may not always be suitable for the Cooking Compass community. Clicking 
 <img src="images/WT-report.png">
 
 <br>
+
+### Report Recipe
+
+The user can click the 'My Recipes' button on the navigation bar to view the recipes they have submitted. This page allows them to edit or delete their submissions.
+
+<img src="images/WT-my-recipes.png">
+
+<br>
 <br>
 
 ## Community Feedback
