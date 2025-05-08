@@ -15,20 +15,17 @@ layout: home
 * [Meet the Developers](#meet-the-developers)
 
 <br>
-<hr>
 
 ## **Overview**
 Cooking Compass is an application that allows UH Mānoa students to share and search for creative recipes that respect the constraints—limited kitchen resources, cooking skills, time—many college-goers face. By providing opportunites to find creative, *doable* recipes, we aim to foster a community that celebrates resourcefulness, healthy eating, and the joy of cooking.
 
 <br>
-<hr>
 
 ## **The Techy Stuff**
 * See our [GitHub organization](https://github.com/Cooking-Compass).
 * See our [team contract](https://docs.google.com/document/d/1vPueASUJx5Af_aTIyjsdGVoajnHm5Qxhm5PrnRTxdoA/edit?usp=sharing).
 
 <br>
-<hr>
 
 ## **Milestones**
 * [Project Milestone 1](https://github.com/orgs/Cooking-Compass/projects/1)
@@ -36,12 +33,11 @@ Cooking Compass is an application that allows UH Mānoa students to share and se
 * [Project Milestone 3](https://github.com/orgs/Cooking-Compass/projects/3)
 
 <br>
-<hr>
 
 ## **Mockups**
 
 <h3><strong>Landing Page</strong></h3>
-<img width="500" src="images/WT-landing-page.png">
+<img style="text-align: center" width="500" src="images/WT-landing-page.png">
 
 <div style="display: flex; flex-wrap: wrap; gap: 40px; justify-content: center;">
 
@@ -247,14 +243,14 @@ The user can click the 'My Recipes' button on the navigation bar to view the rec
 
 ## **Community Feedback**
 
-### **What did you like? Is this convenient and would you use this?**
+### **What did you like about Cooking Compass? Is it convenient? Would you use it?**
 
 * "I liked how easy it is to follow and use! I would definitely use this to look at other people's recipes." 
 * "Most of it I liked; mainly the structure and the design. I would use this and spread this to other people."
 
 <br>
 
-### **Tell us ways this could be better**
+### **Tell us how Cooking Compass could be better.**
 
 * "Try to make the spacing between the pictures and descriptions of the receipies not funky."
 * "The comma structure was not the best option. Try to use some less common grammatical symbol/device like a ';'."
