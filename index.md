@@ -206,7 +206,7 @@ When you first bring up the application, you will see the landing page that prov
 
 ### About
 
-Clicking on the 'About' link brings up a page containing information about the app, our vision, and frequently asked questions.
+Clicking on the 'About Us' link brings up a page containing information about the app, our vision, and frequently asked questions.
 
 <img src="images/WT-about.png">
 
@@ -236,9 +236,9 @@ After successfully logging in, the user will be taken back to the homepage, but 
 
 <br>
 
-### List Recipe
+### Explore
 
-Clicking on the Explore link brings up a page that lists all of the recipes that have been submitted to the application.
+Clicking on the 'Explore' button brings up a page that lists all of the recipes that have been submitted to the application. Each card has a preview of the dish, including an image and description.
 
 <img src="images/WT-explore.png">
 
@@ -246,9 +246,20 @@ Clicking on the Explore link brings up a page that lists all of the recipes that
 
 ### Individual Recipe
 
-From the Explore page, the user can click on individual recipes to bring up a page dedicated to that specific recipe.
+From the Explore page, the user can click on the 'View Recipe' button for the recipe they would like to know more about. This brings up a page that now also lists the ingredients and instructions for that recipe.
 
 <img src="images/WT-recipe.png">
+
+<br>
+
+### Report Recipe
+
+A recipe may not always be suitable for the Cooking Compass community. Clicking the 'Report' button on a recipe page allows the user to alert the admins of potential violations.
+
+<img src="images/WT-report.png">
+
+<br>
+<br>
 
 ## Community Feedback
 
