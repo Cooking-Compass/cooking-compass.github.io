@@ -9,7 +9,9 @@ layout: home
 * [The Techy Stuff](#the-techy-stuff)
 * [Mockups](#mockups)
 * [Deployment](#deployment)
-* [User Guide](#user-guide)
+* [Installment Guide](#wish-to-install-and-view-our-program?)
+* [User Interface Walkthrough](#user-interface-walkthrough)
+* [Community Feedback](#community-feedback)
 * [Meet the Developers](#meet-the-developers)
 
 ## **Overview**
@@ -18,7 +20,6 @@ Cooking Compass is an application that allows UH Mānoa students to share and se
 ## **The Techy Stuff**
 * See our [GitHub organization](https://github.com/Cooking-Compass).
 * See our [team contract](https://docs.google.com/document/d/1vPueASUJx5Af_aTIyjsdGVoajnHm5Qxhm5PrnRTxdoA/edit?usp=sharing).
-* See our [deployment page](https://cooking-compass-khaki.vercel.app/). (Just placed here for now.)
 
 ## **Milestones**
 * [Project Milestone 1](https://github.com/orgs/Cooking-Compass/projects/1)
@@ -58,46 +59,6 @@ Cooking Compass is an application that allows UH Mānoa students to share and se
 
 * [Vercel Deployment](https://cooking-compass-khaki.vercel.app/)
 * [![ci-CookingCompass](https://github.com/Cooking-Compass/cooking-compass/actions/workflows/ci.yml/badge.svg)](https://github.com/Cooking-Compass/cooking-compass/actions/workflows/ci.yml)
-
-## **Meet the Developers**
-
-<div>
-  <table style="margin: 0 auto; border-collapse: separate; border-spacing: 10px;">
-    <tr>
-      <td style="width: 200px; vertical-align: top; text-align: center;">
-        <h3 style="margin-bottom: 10px;">Derrick</h3>
-        <img src="images/derrick-square.jpg" style="width: 150px; height: 150px; object-fit: cover; object-position: center; border-radius: 8px;"><br>
-        <p style="font-size: 13px; margin-top: 8px;">
-          Majoring in ICS to eventually be in Game Development.
-        </p>
-      </td>
-      <td style="width: 200px; vertical-align: top; text-align: center;">
-        <h3 style="margin-bottom: 10px;">Jasmine</h3>
-        <img src="images/jasmine-square.jpg" style="width: 150px; height: 150px; object-fit: cover; object-position: center; border-radius: 8px;"><br>
-        <p style="font-size: 13px; margin-top: 8px;">
-        Majoring in ICS and minoring in Philosophy.
-        <a href="https://www.linkedin.com/in/jasminequach/" target="_blank">LinkedIn</a>
-        </p>
-      </td>
-      <td style="width: 200px; vertical-align: top; text-align: center;">
-        <h3 style="margin-bottom: 10px;">Martin</h3>
-        <img src="images/martin.jpg" style="width: 138.5px; height: 150px; object-fit: cover; object-position: center; border-radius: 8px;"><br>
-        <p style="font-size: 13px; margin-top: 8px;">
-        Majoring in Astrophysics and Minoring in ICS.
-        <a href="https://www.linkedin.com/in/martin-adra-40a06b1b9" target="_blank">LinkedIn</a>
-        </p>
-      </td>
-      <td style="width: 200px; vertical-align: top; text-align: center;">
-        <h3 style="margin-bottom: 10px;">Binh</h3>
-        <img src="images/binh-square.jpg" style="width: 150px; height: 150px; object-fit: cover; object-position: center; border-radius: 8px;"><br>
-        <p style="font-size: 13px; margin-top: 8px;">
-        Majoring in ICS with an interest in Cybersecurity.
-          <a href="https://www.linkedin.com/in/binhntrann/" target="_blank">LinkedIn</a>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
 
 <br>
 <hr>
@@ -283,3 +244,46 @@ The user can click the 'My Recipes' button on the navigation bar to view the rec
 * "Try to make the spacing between the pictures and descriptions of the receipies not funky."
 * "The comma structure was not the best option. Try to use some less common grammatical symbol/device like a ';'."
 * "Clearer instructions on how to write the instructions for each recipe."
+
+<br>
+<hr>
+
+## **Meet the Developers**
+
+<div>
+  <table style="margin: 0 auto; border-collapse: separate; border-spacing: 10px;">
+    <tr>
+      <td style="width: 200px; vertical-align: top; text-align: center;">
+        <h3 style="margin-bottom: 10px;">Derrick</h3>
+        <img src="images/derrick-square.jpg" style="width: 150px; height: 150px; object-fit: cover; object-position: center; border-radius: 8px;"><br>
+        <p style="font-size: 13px; margin-top: 8px;">
+          Majoring in ICS to eventually be in Game Development.
+        </p>
+      </td>
+      <td style="width: 200px; vertical-align: top; text-align: center;">
+        <h3 style="margin-bottom: 10px;">Jasmine</h3>
+        <img src="images/jasmine-square.jpg" style="width: 150px; height: 150px; object-fit: cover; object-position: center; border-radius: 8px;"><br>
+        <p style="font-size: 13px; margin-top: 8px;">
+        Majoring in ICS and minoring in Philosophy.
+        <a href="https://www.linkedin.com/in/jasminequach/" target="_blank">LinkedIn</a>
+        </p>
+      </td>
+      <td style="width: 200px; vertical-align: top; text-align: center;">
+        <h3 style="margin-bottom: 10px;">Martin</h3>
+        <img src="images/martin.jpg" style="width: 138.5px; height: 150px; object-fit: cover; object-position: center; border-radius: 8px;"><br>
+        <p style="font-size: 13px; margin-top: 8px;">
+        Majoring in Astrophysics and Minoring in ICS.
+        <a href="https://www.linkedin.com/in/martin-adra-40a06b1b9" target="_blank">LinkedIn</a>
+        </p>
+      </td>
+      <td style="width: 200px; vertical-align: top; text-align: center;">
+        <h3 style="margin-bottom: 10px;">Binh</h3>
+        <img src="images/binh-square.jpg" style="width: 150px; height: 150px; object-fit: cover; object-position: center; border-radius: 8px;"><br>
+        <p style="font-size: 13px; margin-top: 8px;">
+        Majoring in ICS with an interest in Cybersecurity.
+          <a href="https://www.linkedin.com/in/binhntrann/" target="_blank">LinkedIn</a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
