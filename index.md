@@ -9,23 +9,20 @@ layout: home
 * [The Techy Stuff](#the-techy-stuff)
 * [Mockups](#mockups)
 * [Deployment](#deployment)
-* [Installment Guide](#wish-to-install-and-view-our-program?)
+* [Installment Guide](#wish-to-install-and-view-our-program)
 * [User Interface Walkthrough](#user-interface-walkthrough)
 * [Community Feedback](#community-feedback)
 * [Meet the Developers](#meet-the-developers)
 
-<br>
 
 ## **Overview**
 Cooking Compass is an application that allows UH Mānoa students to share and search for creative recipes that respect the constraints—limited kitchen resources, cooking skills, time—many college-goers face. By providing opportunites to find creative, *doable* recipes, we aim to foster a community that celebrates resourcefulness, healthy eating, and the joy of cooking.
 
-<br>
 
 ## **The Techy Stuff**
 * See our [GitHub organization](https://github.com/Cooking-Compass).
 * See our [team contract](https://docs.google.com/document/d/1vPueASUJx5Af_aTIyjsdGVoajnHm5Qxhm5PrnRTxdoA/edit?usp=sharing).
 
-<br>
 
 ## **Milestones**
 * [Project Milestone 1](https://github.com/orgs/Cooking-Compass/projects/1)
@@ -33,11 +30,14 @@ Cooking Compass is an application that allows UH Mānoa students to share and se
 * [Project Milestone 3](https://github.com/orgs/Cooking-Compass/projects/3)
 
 <br>
+<hr>
 
 ## **Mockups**
 
-<h3><strong>Landing Page</strong></h3>
-<img style="text-align: center" width="500" src="images/WT-landing-page.png">
+<div style="text-align: center">
+  <h3><strong>Landing Page</strong></h3>
+  <img width="500" src="images/WT-landing-page.png">
+</div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 40px; justify-content: center;">
 
