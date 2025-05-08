@@ -255,6 +255,7 @@ The user can click the 'My Recipes' button on the navigation bar to view the rec
 
 * "I liked how easy it is to follow and use! I would definitely use this to look at other people's recipes." 
 * "Most of it I liked; mainly the structure and the design. I would use this and spread this to other people."
+* "I think it's very convenient and I can find everything easily."
 
 <br>
 
