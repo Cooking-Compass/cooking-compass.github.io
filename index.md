@@ -232,7 +232,7 @@ A recipe may not always be suitable for the Cooking Compass community. Clicking 
 
 <br>
 
-### **Report Recipe**
+### **My Recipes**
 
 The user can click the 'My Recipes' button on the navigation bar to view the recipes they have submitted. This page allows them to edit or delete their submissions.
 
