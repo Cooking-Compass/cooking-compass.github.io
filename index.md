@@ -269,18 +269,17 @@ The user can click the 'My Recipes' button on the navigation bar to view the rec
 <br>
 <br>
 
-## Community Feedback
+## **Community Feedback**
 
-### What did you like, is this convenient and would you use this?
+### **What did you like? Is this convenient and would you use this?**
 
-"I liked how easy it is to follow and use! I would definitely use this to look at other people's recipes." 
+* "I liked how easy it is to follow and use! I would definitely use this to look at other people's recipes." 
+* "Most of it I liked; mainly the structure and the design. I would use this and spread this to other people."
 
-"Most of it I liked, mainly the structure and the design. I would use this and spread this to other people"
+<br>
 
-### Tell us ways this could be better
+### **Tell us ways this could be better**
 
-"Try to make the spacing between the pictures and descriptions of the receipies not funky." 
-
-"The comma structure was not the best option. Try to use some less common grammatical symbol/device like a ';'."
-
-"Clearer instructions on how to write the instructions for each recipe."
+* "Try to make the spacing between the pictures and descriptions of the receipies not funky."
+* "The comma structure was not the best option. Try to use some less common grammatical symbol/device like a ';'."
+* "Clearer instructions on how to write the instructions for each recipe."
