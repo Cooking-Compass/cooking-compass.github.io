@@ -287,7 +287,7 @@ The user can click the 'My Recipes' button on the navigation bar to view the rec
         <h3 style="margin-bottom: 10px;">Martin</h3>
         <img src="images/martin.jpg" style="width: 138.5px; height: 150px; object-fit: cover; object-position: center; border-radius: 8px;"><br>
         <p style="font-size: 13px; margin-top: 8px;">
-        Majoring in Astrophysics and Minoring in ICS.
+        Majoring in Astrophysics and minoring in ICS.
         <a href="https://www.linkedin.com/in/martin-adra-40a06b1b9" target="_blank">LinkedIn</a>
         </p>
       </td>
