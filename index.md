@@ -218,7 +218,7 @@ After successfully logging in, the user will be taken back to the homepage, but 
 
 ### **Explore**
 
-Clicking on the 'Explore' button brings up a page that lists all of the recipes that have been submitted to the application. Each card has a preview of the dish, including an image and description.
+Clicking on the 'Explore' button brings up a page that lists all of the recipes that have been submitted to the application. Each card has a preview of the dish, including an image and description. The search bar in the navigation bar fetches specific recipes the user types in as long as they are existing.
 
 <img src="images/WT-explore.png">
 
